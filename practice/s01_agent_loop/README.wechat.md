@@ -129,7 +129,9 @@ Agent 是一条能反复闭环的执行链。
 准备动作不多。
 
 ```bash
-pip install -r requirements.txt
+pip install anthropic 
+pip install python-dotenv
+pip install pyyaml
 cp .env.example .env
 ```
 
