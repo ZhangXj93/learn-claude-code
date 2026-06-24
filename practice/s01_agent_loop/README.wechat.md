@@ -480,8 +480,7 @@ Bash 是动作接口。
 
 如果你想直接看完整实现，可以打开这里。
 
-- [s01_agent_loop/code.py](s01_agent_loop/code.py)
-- [s01_agent_loop/README.md](s01_agent_loop/README.md)
+- https://github.com/ZhangXj93/learn-claude-code/blob/main/practice/s01_agent_loop/agent.py
 
 如果你准备继续往下学，下一步很自然就是 Tool Use。因为当你已经能让模型借助一个工具连续行动，下一个问题通常就是，怎么把它从一只手，慢慢长成一套顺手的工具系统。
 
